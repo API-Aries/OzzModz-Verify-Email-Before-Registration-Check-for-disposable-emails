@@ -17,3 +17,6 @@ just paste the code
 **Description** 
 
 adds a disposable email checker to the [OzzModz] Verify Email Before Registration xenforo add-on
+
+Xenforo Store: 
+https://xenforo.com/community/resources/ozzmodz-verify-email-before-registration.8250/
