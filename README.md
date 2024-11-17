@@ -12,7 +12,7 @@ xenforo.com/src/addons/OzzModz/VerifyEmail/XF/Pub/Controller/Register.php
 
 just paste the code
 
-**confirmed to be working on 2.3.4** 
+**confirmed to be working on 2.0.8** 
 
 **Description** 
 
