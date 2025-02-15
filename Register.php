@@ -118,9 +118,9 @@ class Register extends XFCP_Register
      */
     protected function isDisposableEmail(string $email): bool
     {
-        $apiUrl = 'https://api.api-aries.online/v1/checkers/proxy/email/?email=' . urlencode($email);
+        $apiUrl = 'https://api.api-aries.com/v1/checkers/proxy/email/?email=' . urlencode($email);
         $headers = [
-            'APITOKEN: API Token here', // GEt api token "https://dashboard.api-aries.online/"
+            'APITOKEN: API Token here', // GEt api token "https://dashboard.api-aries.com/"
         ];
 
         $curl = curl_init($apiUrl);
