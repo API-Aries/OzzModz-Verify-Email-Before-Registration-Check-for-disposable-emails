@@ -1,10 +1,10 @@
 # [OzzModz] Verify Email Before Registration disposable email checker version
 
 **learn more about the endpoint** :
-https://support.api-aries.online/hc/articles/1/3/3/email-checker
+https://support.api-aries.com/hc/articles/1/3/3/email-checker
 
 **Get API Token** :
-https://dashboard.api-aries.online/ add to line 123
+https://dashboard.api-aries.com/ add to line 123
 
 **Installation Steps** :
 
